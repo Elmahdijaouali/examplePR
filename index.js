@@ -1,2 +1,2 @@
 
-console.log("test pull request ")
+window.alert("test pull request ");
